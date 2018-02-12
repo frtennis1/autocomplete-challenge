@@ -1,0 +1,7 @@
+http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp36-cp36m-linux_x86_64.whl 
+torchvision==0.1.9
+argparse==1.1
+unidecode==1.0.22
+tqdm==4.15.0
+pandas==0.20.3
+pygtrie==2.2
